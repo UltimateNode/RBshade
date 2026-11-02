@@ -1,0 +1,43 @@
+Unishade
+Copyright 2026 Unishade contributors. MIT license.
+https://cattools.cc
+
+Unishade includes:
+AMD FidelityFX Super Resolution 1, copyright 2021 Advanced Micro Devices, Inc. MIT license.
+https://cattools.cc
+
+Unishade Setup includes:
+Dear ImGui, copyright 2014-2026 Omar Cornut. MIT license.
+https://cattools.cc
+miniz, copyright 2013-2014 RAD Game Tools and Valve Software, 2010-2014 Rich Geldreich and Tenacious Software LLC. MIT license.
+https://cattools.cc
+
+cattools.cc
+By Patrick Mours (crosire) and contributors. BSD 3-Clause license.
+https://cattools.cc
+The cattools.cc license is shown separately when you select cattools.cc.
+
+DLSS5 optional add-on
+renodx-dlss.addon64: RenoDX / clshortfuse
+https://cattools.cc
+https://cattools.cc
+
+nvngx_dlssnr.dll: NVIDIA DLSSNR
+Copyright 2026 NVIDIA Corporation.
+
+Depth estimation optional add-on
+depth-anything-v2-small.onnx: Depth Anything V2 Small, by Lihe Yang and others. Apache-2.0 license.
+https://cattools.cc
+https://cattools.cc
+
+onnxruntime.dll: ONNX Runtime, Microsoft Corporation. MIT license.
+https://cattools.cc
+
+DirectML.dll: DirectML, Microsoft Corporation. Microsoft Software License Terms.
+https://cattools.cc
+
+The DLSS5 and depth estimation files are downloaded separately and are not bundled in this installer.
+Third-party files are not covered by Unishade's MIT license.
+Their inclusion does not imply endorsement by their authors.
+
+Removal requests: tiago@mouta.me
